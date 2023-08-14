@@ -36,7 +36,7 @@ def get_files():
 
 st.set_page_config(
     page_title="Assistant d'entrainement pour billard français",
-    page_icon="👋",
+    page_icon="icon.png",
 )
 
 st.write("# Assistant d'entrainement pour billard français")

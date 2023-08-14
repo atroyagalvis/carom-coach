@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 RUN git clone https://github.com/atroyagalvis/carom-coach.git .
+COPY client_secrets.json /app/client_secrets.json
 RUN pip3 install -r requirements.txt
 
 EXPOSE 8501
