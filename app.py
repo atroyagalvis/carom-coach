@@ -3,7 +3,6 @@ from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
 
 gauth = GoogleAuth()   
-gauth.CommandLineAuth()
 drive = GoogleDrive(gauth) 
 
 #TODO: this is pointing directly to a specific drive account, should be more general if the app is to be used by other users
