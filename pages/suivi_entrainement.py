@@ -5,7 +5,7 @@ from datetime import date, datetime
 
 db_filename = 'suivi_entrainement.csv'
 sched_filename = 'training_schedule.csv'
-work_time_unit = 3 #one percent corresponds to work_time_unit minutes
+base_train_time = 30 # minutes
 try:
     df_train = pd.read_csv(db_filename)
 except FileNotFoundError:
@@ -24,13 +24,21 @@ timestamp = datetime.now()
 st.write("Today's date:", today)
 
 st.write("Aujourd'hui tu devrais travailler:")
-ideal = df_sched['Pourcentage']
-ideal.index = df_sched['Axe de travail'].values
-actual = df_train[['Axe de travail','Temps']].groupby('Axe de travail').agg(lambda x: x.sum()/df_train['Temps'].sum())
-actual['Pourcentage'] = actual['Temps']
-actual = actual['Pourcentage']
-diff = work_time_unit*100*(ideal-actual).fillna(1).sort_values(ascending=False).rename('Temps recommandé')
-st.write(diff)
+df_sched.index = df_sched['Axe de travail'].values
+ideal_time = df_sched['Pourcentage']*df_train['Temps'].sum()
+actual_time = df_train[['Axe de travail','Temps']].groupby('Axe de travail').agg(lambda x: x.sum())
+actual_time['Temps passé'] = actual_time['Temps']
+actual_time = actual_time['Temps passé']
+needed = (ideal_time-actual_time).fillna(base_train_time)
+#.fillna(1)#.sort_values(ascending=False).rename('Temps recommandé')
+
+df_sched['Temps ideal'] = actual_time
+df_sched['Temps passé'] = actual_time
+df_sched['Temps recommandé'] = needed
+df_sched['Pourcentage Ideal'] = df_sched['Pourcentage']*100
+df_sched['Pourcentage passé'] = actual_time/df_train['Temps'].sum()*100
+
+st.write(df_sched[['Pourcentage Ideal','Pourcentage passé', 'Temps recommandé']].sort_values('Temps recommandé',ascending=False))
 
 temps = st.slider('Entrez le nombre de minutes passés à travailler', 0, 360, 30)
     
