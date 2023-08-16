@@ -38,7 +38,7 @@ df_sched['Temps recommandé'] = needed
 df_sched['Pourcentage Ideal'] = df_sched['Pourcentage']*100
 df_sched['Pourcentage passé'] = actual_time/df_train['Temps'].sum()*100
 
-st.write(df_sched[['Pourcentage Ideal','Pourcentage passé', 'Temps recommandé']].sort_values('Temps recommandé',ascending=False))
+st.write(df_sched[['Temps recommandé', 'Temps passé', 'Pourcentage Ideal','Pourcentage passé']].sort_values('Temps recommandé',ascending=False))
 
 temps = st.slider('Entrez le nombre de minutes passés à travailler', 0, 360, 30)
     
