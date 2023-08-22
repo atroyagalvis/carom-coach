@@ -42,7 +42,30 @@ st.pyplot(fig)
 
 st.markdown('# Statistiques entrainement')
 
+st.markdown("Nombre d'heures travaillées:")
+st.markdown(f"Total: {df_train['Temps'].sum()/60}h")
+
+for g,d in df_train.groupby('Axe de travail'):
+    st.markdown(f"{g} : {d['Temps'].sum()/60}h")
+
+accuracy = df_point['Réussites']/ df_point['Essais']
+accuracy.index = df_point["Timestamp"]
+fig = plt.figure()
+accuracy.plot(style='.')
+st.pyplot(fig)
+
+point = st.selectbox(
+    'Point',
+    df_point['Nom point'].unique())
+
+df_selected_point = df_point[df_point['Nom point']==point]
+accuracy = df_selected_point['Réussites']/ df_selected_point['Essais']
+accuracy.index = df_selected_point["Timestamp"]
+fig = plt.figure()
+accuracy.plot(style='.')
+st.pyplot(fig)
+
 st.write(df_train.groupby('Axe de travail')['Exercice'].agg(lambda x: len(x.unique())).rename('Nb exercices travaillés'))
 st.write(df_point.groupby([ 'Nom point','Type point']).sum())
 
-st.write(df_point.groupby([ 'Nom point','Type point']))
+#st.write(df_point.groupby([ 'Nom point','Type point']))
