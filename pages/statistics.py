@@ -17,10 +17,13 @@ mode_jeu = st.selectbox(
 
 
 df_stat = df_match[df_match['Mode jeu']==mode_jeu]
-st.write(f"Total de reprises jouées: {df_stat['Reprises'].sum()}")
-st.write(f"Total de points marqués: {df_stat['Points'].sum()}")
-st.write(f"Moyenne générale: {df_stat['Points'].sum()/df_stat['Reprises'].sum()}")
-st.write(f"Meilleure série: {df_stat['Série'].max()}")
+for g, x in df_stat.groupby('Format billard'):
+    plt.hist(x['Points']/x['Reprises'], label=g, bins=20)
+    st.write(f"Stats sur {g}")
+    st.write(f"Total de reprises jouées: {x['Reprises'].sum()}")
+    st.write(f"Total de points marqués: {x['Points'].sum()}")
+    st.write(f"Moyenne générale: {x['Points'].sum()/x['Reprises'].sum()}")
+    st.write(f"Meilleure série: {x['Série'].max()}")
 
 df_stat.index = df_stat['Timestamp']
 fig = plt.figure()
