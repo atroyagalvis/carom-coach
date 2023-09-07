@@ -31,8 +31,13 @@ mode_jeu = st.selectbox(
     'Mode de jeu',
     ('Libre', '1 bande', '3 bandes', 'Cadre 42/2', 'Cadre 47/2', 'Cadre 71/2', 'Cadre 47/1'))
 
+format_billard = st.selectbox(
+    'Format Billard',
+    ('2.80', '3.10', 'Autre'))
+
 st.write("Moyenne génerale:")
-df_mode = df_match[df_match['Mode jeu']==mode_jeu]
+df_mode = df_match[(df_match['Mode jeu']==mode_jeu)&(df_match['Format billard']==float(format_billard))]
+
 avg = df_mode['Points'].sum()/df_mode['Reprises'].sum()
 st.write(avg)
 nb_last_matchs = st.slider('Moyenne sur combien de matchs?', 0, 50, 10)
@@ -65,9 +70,7 @@ points = st.slider('Entrez le nombre de points', 0, 400, 100)
 reprises = st.slider('Entrez le nombre de reprises', 0, 100, 20)
 serie = st.slider('Entrez la meilleure série', 0, 400, 0)
 
-format_billard = st.selectbox(
-    'Format Billard',
-    ('2.80', '3.10', 'Autre'))
+
 
 comm = st.text_input('Commentaires', 'RAS')
 
