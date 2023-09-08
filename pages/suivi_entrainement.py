@@ -61,7 +61,8 @@ st.write('The exercice is', exo)
 
 comm = st.text_input('Commentaires', 'RAS')
 
-if st.button('Valider'):
+valid = st.button('Valider')
+if valid:
     # Insert Dict to the dataframe using DataFrame.append()
     new_row = {'Temps':temps, 
                'Axe de travail':axe, 
@@ -70,6 +71,8 @@ if st.button('Valider'):
                'Timestamp':timestamp,
                'Commentaire': comm}
     df_train.loc[len(df_train)] = new_row
+
+df_train = st.data_editor(df_train, num_rows="dynamic")
+if st.button('Sauvegarder') or valid:
     df_train.to_csv(db_filename,  index=False)
     st.experimental_rerun()
-st.write(df_train)

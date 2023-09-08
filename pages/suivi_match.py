@@ -74,7 +74,8 @@ serie = st.slider('Entrez la meilleure série', 0, 400, 0)
 
 comm = st.text_input('Commentaires', 'RAS')
 
-if st.button('Valider'):
+valid = st.button('Valider')
+if valid:
     # Insert Dict to the dataframe using DataFrame.append()
     new_row = {
         'Mode jeu': mode_jeu,
@@ -89,7 +90,8 @@ if st.button('Valider'):
         'Commentaire': comm
     }
     df_match.loc[len(df_match)] = new_row
+    
+df_match = st.data_editor(df_match, num_rows="dynamic")
+if st.button('Sauvegarder') or valid:
     df_match.to_csv(db_filename,  index=False)
     st.experimental_rerun()
-
-st.write(df_match)

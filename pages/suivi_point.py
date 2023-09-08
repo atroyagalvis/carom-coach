@@ -44,8 +44,8 @@ success = st.slider('Entrez le nombre de réussites', 0, 50, 1)
 
 
 comm = st.text_input('Commentaires', 'RAS')
-
-if st.button('Valider'):
+valid = st.button('Valider')
+if valid:
     # Insert Dict to the dataframe using DataFrame.append()
     new_row = {
         'Nom point': exo,
@@ -57,8 +57,8 @@ if st.button('Valider'):
         'Commentaire': comm    
         }
     df_point.loc[len(df_point)] = new_row
+
+df_point = st.data_editor(df_point, num_rows="dynamic")
+if st.button('Sauvegarder') or valid:
     df_point.to_csv(db_filename,  index=False)
     st.experimental_rerun()
-
-st.write(df_point)
-    
