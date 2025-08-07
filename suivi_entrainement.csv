@@ -31,20 +31,20 @@ Temps,Axe de travail,Exercice,Date,Timestamp,Commentaire
 30,Position aléatoire large,Gretillat position aléatoire dans le tiers,2023-08-12,2023-08-12 15:32:33.792232,
 30,Position aléatoire large,Gretillat position aléatoire dans le tiers,2023-08-12,2023-08-12 15:32:34.624808,
 30,Position aléatoire large,Gretillat position aléatoire dans le tiers,2023-08-12,2023-08-12 15:32:35.523124,
-45,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:33:18.501071,1-13
-30,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:33:31.857136,14-24
-30,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:33:41.456344,24-32
-30,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:33:50.872559,33-40
-30,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:03.103975,41-49
-30,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:10.685863,50-60
-30,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:22.090533,61-67
-60,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:36.726605,1-26
-45,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:58.570410,27-37
-30,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:35:31.944824,38-43
-20,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:35:46.103762,44-45
-20,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:35:57.341202,46-48
-30,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:36:16.358586,49-52
-30,Position aléatoire long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:36:30.619328,53-60
+45,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:33:18.501071,1-13
+30,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:33:31.857136,14-24
+30,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:33:41.456344,24-32
+30,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:33:50.872559,33-40
+30,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:03.103975,41-49
+30,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:10.685863,50-60
+30,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:22.090533,61-67
+60,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:36.726605,1-26
+45,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:34:58.570410,27-37
+30,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:35:31.944824,38-43
+20,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:35:46.103762,44-45
+20,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:35:57.341202,46-48
+30,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:36:16.358586,49-52
+30,Rappel long,Gretillat Positions Livre,2023-08-12,2023-08-12 15:36:30.619328,53-60
 30,Rappel large,Divers,2023-08-12,2023-08-12 15:37:38.317003,1b 2b 3b tiers
 15,Rappel large,Divers,2023-08-12,2023-08-12 15:38:00.000611,1b 2b 3b tiers
 45,Rappel large,Gretillat Positions Livre,2023-08-12,2023-08-12 15:38:35.408641,1-12
@@ -113,3 +113,164 @@ Temps,Axe de travail,Exercice,Date,Timestamp,Commentaire
 40,Série,Serie libre,2023-08-12,2023-08-12 15:56:34.049532,série 20
 20,Série,Tentatives prise americaine,2023-08-12,2023-08-12 15:57:03.597233,1/10
 30,Série,Tentatives prise americaine,2023-08-12,2023-08-12 15:57:18.527475,0/10
+30,Billes en lunette,Petite ligne,2023-08-16,2023-08-16 10:59:21.388211,"Pas de contrainte, meilleure série 41"
+45,Rappel long,Gretillat Positions Livre,2023-08-16,2023-08-16 11:47:16.208726,RAS
+30,Billes en lunette,Remontée américaine sur grande bande,2023-08-18,2023-08-18 15:23:18.282606,"Arrivé au coin 3 fois, pas tourné. "
+30,Billes en lunette,Enchainement billes lunette Guenet 1,2023-08-18,2023-08-18 15:55:14.218729,RAS
+30,Billes en lunette,Petite ligne,2023-08-18,2023-08-18 16:32:06.552089,En deux coups de placement. 11 enchainements parfaits
+30,Billes en lunette,Exercice passage et rappels 1b 2b 3b,2023-08-20,2023-08-20 12:52:49.982032,RAS
+30,Billes en lunette,Remontée américaine sur grande bande,2023-08-20,2023-08-20 13:23:25.540765,RAS
+30,Série,Serie libre,2023-08-20,2023-08-20 13:44:23.891612,Meilleure série 17
+45,Billes en lunette,"Gretillat placement en 1, 2 et 3 coups pour rappel 1b 2b et 3b",2023-08-21,2023-08-21 17:37:17.989935,RAS
+40,Rappel large,Gretillat Positions Livre,2023-08-22,2023-08-22 10:34:18.019004,RAS
+30,Billes en lunette,Enchainement billes lunette Guenet 1,2023-08-22,2023-08-22 11:03:12.469063,RAS
+35,Gestuelle,Exercice trouver chevalet au centre,2023-08-22,2023-08-22 11:39:00.374016,RAS
+30,Position aléatoire large,Position aléatoire large,2023-08-23,2023-08-23 11:08:26.410824,RAS
+30,Position aléatoire long,Position aléatoire long,2023-08-23,2023-08-23 11:37:59.033996,RAS
+40,Prises americaine,Gretillat Positions Livre,2023-08-29,2023-08-29 10:43:28.991782,Positions 1-8
+30,Billes en lunette,Petite ligne,2023-08-29,2023-08-29 11:21:56.116720,"Placement en 3 coups, 4 enchainements parfaits"
+35,Position aléatoire long,Position aléatoire long,2023-08-30,2023-08-30 10:37:41.545780,"Essayant de suivre stratégie de remond, billes du même côté "
+37,Rappel large,Guenet 1 pour 2 tiers,2023-08-30,2023-08-30 11:16:47.748610,RAS
+15,Billes en lunette,Petite ligne,2023-08-30,2023-08-30 11:34:53.786462,"Sans contrainte, meilleure série 40"
+30,Billes en lunette,Enchainement billes lunette Guenet 1,2023-09-05,2023-09-05 10:30:28.703066,Essayant de poser l'américaine en 8 coups max
+30,Rappel long,Gretillat Positions Livre,2023-09-05,2023-09-05 11:01:14.150249,Points 1-5
+20,Gestuelle,Horloge amorti 2 billes,2023-09-06,2023-09-06 10:18:05.347544,RAS
+35,Rappel long,Gretillat Positions Livre,2023-09-06,2023-09-06 10:56:58.454236,Ras
+21,Prises americaine,Gretillat Positions Livre,2023-09-06,2023-09-06 11:21:49.812209,RAS
+30,Rappel large,Gretillat Positions Livre,2023-09-07,2023-09-07 16:01:26.430804,RAS
+30,Billes en lunette,Petite ligne,2023-09-08,2023-09-08 09:10:40.291907,"Placement en 3 coups, 6 enchainements parfaits, sur 3.10"
+15,Gestuelle,Exercice gamme retro largeur,2023-09-08,2023-09-08 11:02:40.531199,3.10
+35,Prises americaine,Gretillat Positions Livre,2023-09-08,2023-09-08 11:35:57.193367,RAS
+0,Prises americaine,,2023-09-08,2023-09-08 11:36:21.952566,RAS
+40,Série,Tentatives prise americaine,2023-09-11,2023-09-11 18:03:26.879083,RAS
+55,Rappel long,"Gamme rappels long, bougeant la 1 sur la ligne du cadre",2023-09-12,2023-09-12 10:59:39.310079,RAS
+50,Position aléatoire large,Position aléatoire large,2023-09-13,2023-09-13 10:53:38.940919,RAS
+35,Rappel large,"Gretillat Exercice 35, rétro passage puis rappels dans les ancres",2023-09-13,2023-09-13 11:30:13.140929,RAS
+65,Billes en lunette,Exercice 8 départs pour une même destination ,2023-09-19,2023-09-19 11:28:00.681922,Réussi 3/8
+14,Gestuelle,"Exercice visée mouche du milieu sans effet, sur la longueur ",2023-09-20,2023-09-20 10:30:11.408138,RAS
+14,Gestuelle,Exercice point d'entrée rétro ,2023-09-20,2023-09-20 10:45:32.107999,RAS
+30,Prises americaine,Gretillat Positions Livre,2023-09-20,2023-09-20 11:33:48.636891,RAS
+80,Série,Tentatives prise americaine,2023-09-26,2023-09-26 11:43:56.302107,Uniquement dans le tiers 
+30,Rappel large,"Gretillat Exercice 25, gamme rappels de large ",2023-09-27,2023-09-27 10:34:31.795690,RAS
+25,Prises americaine,Gretillat Positions Livre,2023-09-27,2023-09-27 11:07:51.361861,RAS
+30,Billes en lunette,Travail americaine,2023-10-03,2023-10-03 11:35:17.407572,RAS
+30,Gestuelle,Exercice billes de près avec 2 billes,2023-10-03,2023-10-03 12:20:31.980729,Suivre une ligne en direct par une bande de la 1 et de la 2
+40,Rappel long,Exercice points d'échelle ,2023-10-10,2023-10-10 11:10:34.171431,"Positions précises par bille entre 2 mouches, sans effet et puis avec effet "
+60,Billes en lunette,Americaine avec Lucien,2023-10-12,2023-10-12 11:36:07.876289,L'américaine c'est Toujours plein
+30,Rappel large,"Gretillat Exercice 23, gamme retro passage ",2023-10-13,2023-10-13 11:13:07.954625,RAS
+60,Prises americaine,Gretillat Positions Livre,2023-11-07,2023-11-07 12:27:19.706833,Pos 1-8
+30,Prises americaine,Enchainement pour prise en rétro passage ,2024-01-02,2024-01-02 12:00:55.086089,RAS
+30,Série,Série uniquement dans le tiers ,2024-01-02,2024-01-02 13:09:28.833159,3m10
+59,Rappel long,Gretillat Positions Livre,2024-01-09,2024-01-09 12:27:44.553584,RAS
+30,Rappel large,Gretillat Positions Livre,2024-01-11,2024-01-11 12:15:55.577851,RAS
+30,Gestuelle,Exercice 1 et 2 billes sur la ligne du cadre petits coups ,2024-01-18,2024-01-18 11:52:39.413238,RAS
+39,Billes en lunette,Petite ligne,2024-01-18,2024-01-18 17:41:18.992448,RAS
+60,Série,Serie libre,2024-01-25,2024-01-25 18:18:47.925054,RAS
+60,Série,Serie libre,2024-01-28,2024-01-28 14:57:24.327928,RAS
+30,Rappel large,"Rappel rétro amorti, réglage hauteur ",2024-01-28,2024-01-28 14:58:09.685416,RAS
+30,Gestuelle,Travail mesure,2024-01-28,2024-01-28 15:31:39.354560,"Après un passage, placement par 1 b ou 3b"
+30,Billes en lunette,Petite ligne,2024-01-28,2024-01-28 15:57:16.276501,
+70,Position aléatoire long,Position aléatoire long,2024-01-30,2024-01-30 12:10:25.575350,RAS
+37,Série,Série en trichant,2024-01-30,2024-01-30 12:48:14.088224,RAS
+25,Rappel long,Exercice point de départ ,2024-02-09,2024-02-09 12:00:25.580298,RAS
+25,Rappel long,Exercice rappels 3b longueur ,2024-02-09,2024-02-09 12:24:51.606314,RAS
+20,Série,Tentatives prise americaine,2024-02-09,2024-02-09 12:46:46.820987,RAS
+40,Rappel large,"Exercice gamme 1 pour 2, ou 2 pour1",2024-02-13,2024-02-13 12:15:46.259510,RAS
+31,Série,Série uniquement dans le tiers ,2024-02-13,2024-02-13 12:41:46.818264,RAS
+30,Position aléatoire large,Exercice bandes avant aléatoire ,2024-02-15,2024-02-15 11:43:36.575367,RAS
+30,Série,Série à la bande ,2024-02-15,2024-02-15 12:15:36.018504,RAS
+36,Billes en lunette,Exercice passage et rappels 1b 2b 3b,2024-02-20,2024-02-20 13:02:51.188527,RAS
+40,Prises americaine,Gretillat Positions Livre,2024-02-23,2024-02-23 10:04:20.500082,RAS
+50,Prises americaine,Tentatives prise americaine,2024-02-23,2024-02-23 11:00:04.173841,"Limitation 10 coups, 3 réussite sur 44"
+20,Gestuelle,Travail mesure,2024-02-23,2024-02-23 11:22:14.599567,
+60,Billes en lunette,Travail americaine,2024-02-23,2024-02-23 12:34:37.323938,
+60,Rappel large,Gretillat Positions Livre,2024-02-27,2024-02-27 12:26:19.198161,RAS
+60,Rappel long,Gretillat Positions Livre,2024-02-29,2024-02-29 11:59:29.434644,RAS
+90,Position aléatoire large,Positions livre Guenet ,2024-03-02,2024-03-02 14:09:12.907483,RAS
+46,Série,Série en trichant cadre 47/2,2024-03-05,2024-03-05 15:00:28.424448,RAS
+30,Gestuelle,Exercice main gauche ,2024-03-15,2024-03-15 14:17:22.815086,RAS
+61,Billes en lunette,"Exercice conesson, tiroir ",2024-03-17,2024-03-17 17:12:10.433824,RAS
+30,Série,Série cadre 47 2 ,2024-03-17,2024-03-17 17:40:21.009878,19 meilleure série 
+30,Position aléatoire large,Série cadre 47 2 ,2024-03-22,2024-03-22 11:51:05.925186,RAS
+30,Série,Série cadre 47 2 ,2024-03-22,2024-03-22 12:39:00.920147,RAS
+30,Billes en lunette,"Exercice conesson, tiroir ",2024-03-28,2024-03-28 12:07:26.623286,RAS
+40,Billes en lunette,Gretillat Exercice 1,2024-03-29,2024-03-29 12:20:28.332693,RAS
+22,Série,Série cadre 47 2 ,2024-03-29,2024-03-29 12:52:52.592189,RAS
+60,Série,Serie libre,2024-10-06,2024-10-06 11:52:24.884515,42
+90,Prises americaine,Gretillat Positions Livre,2024-10-06,2024-10-06 18:12:49.261257,RAS
+62,Rappel large,Gretillat Positions Livre,2024-10-07,2024-10-07 19:46:29.488780,RAS
+60,Rappel long,Gretillat Positions Livre,2024-10-08,2024-10-08 11:07:41.244535,RAS
+30,Gestuelle,Analyse gestuelle vidéo ,2024-10-18,2024-10-18 07:39:13.724445,RAS
+60,Billes en lunette,Gretillat exercices billes lunettes ,2024-10-23,2024-10-23 19:42:40.685761,RAS
+60,Série,Série en trichant,2024-11-13,2024-11-13 18:32:24.882533,RAS
+30,Série,Tentatives prise americaine,2024-11-17,2024-11-17 10:53:35.191710,RAS
+90,Rappel large,Positions livre guenet,2024-11-17,2024-11-17 17:30:16.674062,RAS
+40,Billes en lunette,Petite ligne,2024-11-17,2024-11-17 18:41:30.648857,RAS
+90,Billes en lunette,Positions livre guenet,2024-11-19,2024-11-19 21:33:41.701564,RAS
+90,Billes en lunette,Positions livre guenet,2024-11-19,2024-11-19 21:33:50.087211,RAS
+45,Rappel long,Gretillat Positions Livre,2024-11-22,2024-11-22 19:29:11.946402,RAS
+90,Prises americaine,Enchainement billes lunette Guenet 1,2024-11-27,2024-11-27 19:00:02.135429,RAS
+90,Billes en lunette,Enchainement billes lunette Guenet 1,2024-11-27,2024-11-27 19:00:12.143841,RAS
+30,Billes en lunette,Enchainement billes lunette Guenet 1,2024-11-27,2024-11-27 19:00:22.503164,RAS
+120,Série,Serie libre,2024-11-27,2024-11-27 22:00:46.203367,"299 en 30, partant toujours de billes en lunettes "
+60,Série,Serie libre,2024-12-05,2024-12-05 03:32:20.259979,RAS
+60,Billes en lunette,Petite ligne,2024-12-05,2024-12-05 03:33:35.048153,Serie 80
+60,Gestuelle,Exercice estimation rejet naturel direct ,2024-12-08,2024-12-08 19:12:14.392956,RAS
+60,Gestuelle,Exercice estimation rejet naturel direct ,2024-12-09,2024-12-09 21:07:59.581900,RAS
+30,Prises americaine,Gretillat Positions Livre,2024-12-09,2024-12-09 21:09:37.045237,"Prise 1 bande, différentes nuances "
+30,Série,Petite ligne,2024-12-09,2024-12-09 21:11:55.443514,"Prise 1 bande, différentes nuances "
+61,Rappel long,Gretillat Positions Livre,2024-12-11,2024-12-11 18:57:18.694750,RAS
+30,Position aléatoire large,Gretillat Positions Livre,2024-12-11,2024-12-11 19:24:37.994656,RAS
+10,Gestuelle,Exercice bouteille ,2024-12-12,2024-12-12 20:58:53.158259,RAS
+45,Billes en lunette,Petite ligne,2024-12-12,2024-12-12 20:59:13.156347,RAS
+61,Série,Série uniquement dans le tiers ,2024-12-12,2024-12-12 21:00:13.091306,RAS
+30,Série,Tentatives prise americaine,2024-12-13,2024-12-13 20:05:53.996399,3 prises sur 10
+60,Série,Tentatives prise americaine,2024-12-18,2024-12-18 09:15:36.771788,Sur table maison 1 sur 35 tentatives 
+50,Prises americaine,Gretillat Positions Livre,2024-12-20,2024-12-20 17:20:12.508893,RAS
+60,Billes en lunette,Guenet positions volume 6,2024-12-26,2024-12-26 21:04:52.384249,Placements tiroir 
+60,Rappel large,Guenet positions volume 6,2024-12-26,2024-12-26 21:06:04.139249,Retro arrière reprises de ligne 
+60,Billes en lunette,Positions livre Guenet ,2025-01-04,2025-01-04 22:35:07.607843,RAS
+60,Série,Série uniquement dans le tiers ,2025-01-04,2025-01-04 22:36:38.671780,Série 37
+91,Rappel large,Positions livre Guenet ,2025-01-06,2025-01-06 19:45:05.205196,Rappels pour reprise de ligne
+30,Série,Tentatives prise americaine,2025-01-13,2025-01-13 19:09:43.632704,0 sur 20
+30,Prises americaine,Enchainement pour prise en rétro passage ,2025-01-13,2025-01-13 19:31:55.266908,
+60,Prises americaine,Gretillat Positions Livre,2025-01-14,2025-01-14 12:57:27.580088,RAS
+50,Rappel long,Gretillat Positions Livre,2025-01-17,2025-01-17 17:35:25.139132,RAS
+60,Billes en lunette,Positions livre Guenet ,2025-01-22,2025-01-22 01:43:21.765201,RAS
+30,Position aléatoire long,Gretillat Positions Livre,2025-01-25,2025-01-25 08:11:52.897162,RAS
+60,Rappel long,Cours Thierry Demarchi ,2025-01-30,2025-01-30 09:53:04.992988,RAS
+60,Gestuelle,Analyse gestuelle vidéo ,2025-02-05,2025-02-05 19:28:02.006420,RAS
+45,Rappel long,Exercice coups qui portent 1b,2025-02-05,2025-02-05 19:28:50.989499,RAS
+25,Prises americaine,Enchainement pour prise en rétro passage ,2025-02-05,2025-02-05 19:52:48.457029,RAS
+15,Gestuelle,Exercice bouteille ,2025-02-09,2025-02-09 13:44:08.979297,RAS
+15,Gestuelle,Exercice estimation rejet naturel direct ,2025-02-09,2025-02-09 13:44:19.799329,RAS
+60,Position aléatoire large,Position aléatoire large,2025-02-24,2025-02-24 18:52:04.027591,RAS
+31,Rappel large,Horloge rappel large ,2025-02-24,2025-02-24 19:48:47.031541,RAS
+63,Rappel large,Gamme rappels de large ,2025-02-26,2025-02-26 10:08:10.642273,RAS
+45,Gestuelle,Exercice divers,2025-02-26,2025-02-26 10:53:35.730222,RAS
+90,Rappel long,Gretillat Positions Livre,2025-03-02,2025-03-02 17:14:19.855582,RAS
+45,Rappel large,Exercices anki app,2025-03-05,2025-03-05 18:27:30.901700,RAS
+61,Rappel large,Exercices anki app,2025-03-11,2025-03-11 19:58:40.915706,RAS
+45,Prises americaine,Chercher la prise à partir de bille en lunettes sans dominante ,2025-03-23,2025-03-23 19:17:20.061667,RAS
+60,Position aléatoire long,Position aléatoire long,2025-04-06,2025-04-06 18:14:06.735075,RAS
+47,Rappel long,Placement des rappels de long,2025-04-06,2025-04-06 18:50:17.949532,RAS
+60,Prises americaine,Chercher la prise à partir de bille en lunettes sans dominante ,2025-04-13,2025-04-13 18:49:19.973936,RAS
+60,Position aléatoire long,Série sur départ aléatoire long,2025-04-28,2025-04-28 21:59:49.268132,RAS
+60,Rappel large,Positions livre Guenet ,2025-04-28,2025-04-28 22:00:36.895218,RAS
+30,Série,Exercice 10 pt sur billes en lunette ,2025-04-29,2025-04-29 17:59:17.840919,RAS
+45,Rappel large,Positions livre Guenet ,2025-04-29,2025-04-29 19:23:46.030178,RAS
+61,Position aléatoire large,Gretillat position aléatoire dans le tiers,2025-05-16,2025-05-16 13:18:26.856220,RAS
+61,Prises americaine,Travail americaine,2025-05-16,2025-05-16 13:18:54.643791,RAS
+60,Billes en lunette,Travail americaine,2025-05-18,2025-05-18 15:18:13.577982,RAS
+62,Gestuelle,Exercice divers,2025-06-08,2025-06-08 17:21:38.680373,RAS
+62,Série,Série 45/2 à la maison ,2025-06-08,2025-06-08 17:22:44.835590,RAS
+60,Prises americaine,Gretillat Positions Livre,2025-06-09,2025-06-09 18:18:29.717163,RAS
+45,Série,Serie libre,2025-06-09,2025-06-09 19:31:49.950374,RAS
+62,Prises americaine,Gretillat Positions Livre,2025-06-10,2025-06-10 18:30:27.163529,RAS
+20,Série,Serie libre,2025-06-10,2025-06-10 18:45:35.701685,RAS
+46,Prises americaine,Gretillat Positions Livre,2025-06-11,2025-06-11 19:19:32.494118,RAS
+16,Série,Serie libre,2025-06-11,2025-06-11 19:38:03.444256,RAS
+60,Billes en lunette,"Gretillat placement en 1, 2 et 3 coups pour rappel 1b 2b et 3b",2025-07-28,2025-07-28 19:43:56.021019,RAS
+60,Billes en lunette,Gretillat Positions Livre,2025-07-29,2025-07-29 18:00:22.797997,RAS
+60,Prises americaine,Enchainement billes lunette Guenet 1,2025-07-31,2025-07-31 20:02:30.666274,RAS
+60,Prises americaine,Positions livre Guenet ,2025-08-01,2025-08-01 21:09:15.398460,RAS

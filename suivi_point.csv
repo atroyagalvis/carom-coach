@@ -1,0 +1,578 @@
+Nom point,Type point,Réussites,Essais,Date,Timestamp,Commentaire
+Position 1,Rappel de long,1,1,2023-08-12,2023-08-12 16:00:48.198762,RAS
+Gretillat Position 61,Rappel de long,3,10,2023-08-16,2023-08-16 11:07:23.427407,RAS
+Gretillat Position 62,Rappel de long,1,20,2023-08-16,2023-08-16 11:18:44.697462,RAS
+Gretillat Position 63,Rappel de long,0,13,2023-08-16,2023-08-16 11:28:56.467519,RAS
+Gretillat Position 64,Rappel de long,3,10,2023-08-16,2023-08-16 11:34:07.133100,RAS
+Gretillat Position 65,Rappel de long,4,10,2023-08-16,2023-08-16 11:39:09.511442,RAS
+Gretillat Position 66,Rappel de long,0,5,2023-08-16,2023-08-16 11:42:04.443716,RAS
+Gretillat Position 67,Rappel de long,6,10,2023-08-16,2023-08-16 11:46:33.817413,RAS
+Gretillat Position 7,Rappel de large,1,10,2023-08-22,2023-08-22 09:50:53.141300,RAS
+Gretillat Position 8,Rappel de large,4,10,2023-08-22,2023-08-22 09:54:54.746288,RAS
+Gretillat Position 9,Rappel de large,5,10,2023-08-22,2023-08-22 09:59:15.601134,RAS
+Gretillat Position 10,Rappel de large,3,10,2023-08-22,2023-08-22 10:04:34.947245,RAS
+Gretillat Position 11,Rappel de large,2,10,2023-08-22,2023-08-22 10:10:15.329261,RAS
+Gretillat Position 12,Rappel de large,1,10,2023-08-22,2023-08-22 10:15:35.811945,Mal positionné sur 2.80
+Gretillat Position 13,Rappel de large,1,10,2023-08-22,2023-08-22 10:20:45.585893,Mal positionné sur 2.80
+Gretillat Position 14,Rappel de large,8,10,2023-08-22,2023-08-22 10:24:49.176711,Ras
+Gretillat Position 16,Rappel de large,5,10,2023-08-22,2023-08-22 10:28:37.951679,Ras
+Gretillat Position 15,Rappel de large,5,10,2023-08-22,2023-08-22 10:33:36.034652,Ras
+Gretillat Position 1,Rappel de large,1,1,2023-08-23,2023-08-23 08:20:07.176753,RAS
+Gretillat Position 1,Rappel de large,1,1,2023-08-23,2023-08-23 08:20:15.742981,RAS
+Gretillat Position 1,Rappel de large,1,3,2023-08-23,2023-08-23 08:20:24.064869,RAS
+Gretillat Position 1,Rappel de large,1,5,2023-08-23,2023-08-23 08:20:30.070943,RAS
+Gretillat Position 1,Rappel de large,1,1,2023-08-23,2023-08-23 08:20:41.436197,RAS
+Gretillat Position 1,Rappel de large,1,1,2023-08-23,2023-08-23 08:20:42.612199,RAS
+Gretillat Position 1,Rappel de large,5,10,2023-08-23,2023-08-23 08:20:51.078375,RAS
+Gretillat Position 2,Rappel de large,1,3,2023-08-23,2023-08-23 08:21:10.486578,RAS
+Gretillat Position 2,Rappel de large,1,1,2023-08-23,2023-08-23 08:21:17.218401,RAS
+Gretillat Position 2,Rappel de large,1,1,2023-08-23,2023-08-23 08:21:18.836398,RAS
+Gretillat Position 2,Rappel de large,1,1,2023-08-23,2023-08-23 08:21:19.694776,RAS
+Gretillat Position 2,Rappel de large,1,3,2023-08-23,2023-08-23 08:21:23.696760,RAS
+Gretillat Position 2,Rappel de large,1,3,2023-08-23,2023-08-23 08:21:24.588554,RAS
+Gretillat Position 2,Rappel de large,5,10,2023-08-23,2023-08-23 08:21:31.940451,RAS
+Gretillat Position 3,Rappel de large,1,1,2023-08-23,2023-08-23 08:21:47.072075,RAS
+Gretillat Position 3,Rappel de large,1,1,2023-08-23,2023-08-23 08:21:48.540302,RAS
+Gretillat Position 3,Rappel de large,1,1,2023-08-23,2023-08-23 08:21:49.534093,RAS
+Gretillat Position 3,Rappel de large,1,1,2023-08-23,2023-08-23 08:21:50.502352,RAS
+Gretillat Position 3,Rappel de large,1,5,2023-08-23,2023-08-23 08:23:21.794544,RAS
+Gretillat Position 3,Rappel de large,1,1,2023-08-23,2023-08-23 08:23:29.808491,RAS
+Gretillat Position 3,Rappel de large,1,1,2023-08-23,2023-08-23 08:23:43.454853,RAS
+Gretillat Position 4,Rappel de large,1,3,2023-08-23,2023-08-23 08:23:55.416648,RAS
+Gretillat Position 4,Rappel de large,1,1,2023-08-23,2023-08-23 08:24:02.858540,RAS
+Gretillat Position 4,Rappel de large,1,1,2023-08-23,2023-08-23 08:24:05.982409,RAS
+Gretillat Position 4,Rappel de large,1,2,2023-08-23,2023-08-23 08:24:19.842347,RAS
+Gretillat Position 4,Rappel de large,1,2,2023-08-23,2023-08-23 08:24:20.608271,RAS
+Gretillat Position 4,Rappel de large,1,1,2023-08-23,2023-08-23 08:24:25.968358,RAS
+Gretillat Position 4,Rappel de large,1,3,2023-08-23,2023-08-23 08:24:30.746404,RAS
+Gretillat Position 5,Rappel de large,1,4,2023-08-23,2023-08-23 08:24:55.710751,RAS
+Gretillat Position 5,Rappel de large,1,3,2023-08-23,2023-08-23 08:25:01.192464,RAS
+Gretillat Position 5,Rappel de large,1,7,2023-08-23,2023-08-23 08:25:26.242323,RAS
+Gretillat Position 5,Rappel de large,1,5,2023-08-23,2023-08-23 08:25:32.174614,RAS
+Gretillat Position 5,Rappel de large,1,7,2023-08-23,2023-08-23 08:25:41.274405,RAS
+Gretillat Position 5,Rappel de large,1,3,2023-08-23,2023-08-23 08:25:46.918479,RAS
+Gretillat Position 5,Rappel de large,1,9,2023-08-23,2023-08-23 08:25:56.624447,RAS
+Gretillat Position 6,Rappel de large,1,1,2023-08-23,2023-08-23 08:26:15.904457,RAS
+Gretillat Position 6,Rappel de large,1,7,2023-08-23,2023-08-23 08:26:20.356413,RAS
+Gretillat Position 6,Rappel de large,1,4,2023-08-23,2023-08-23 08:26:26.534190,RAS
+Gretillat Position 6,Rappel de large,1,9,2023-08-23,2023-08-23 08:26:32.648300,RAS
+Gretillat Position 6,Rappel de large,1,6,2023-08-23,2023-08-23 08:26:40.834607,RAS
+Gretillat Position 6,Rappel de large,1,5,2023-08-23,2023-08-23 08:26:45.432516,RAS
+Gretillat Position 6,Rappel de large,1,15,2023-08-23,2023-08-23 08:27:32.426560,RAS
+Gretillat Position 7,Rappel de large,1,7,2023-08-23,2023-08-23 08:27:48.954794,RAS
+Gretillat Position 7,Rappel de large,1,7,2023-08-23,2023-08-23 08:27:50.158325,RAS
+Gretillat Position 7,Rappel de large,1,5,2023-08-23,2023-08-23 08:27:56.396424,RAS
+Gretillat Position 7,Rappel de large,1,2,2023-08-23,2023-08-23 08:28:00.766275,RAS
+Gretillat Position 7,Rappel de large,1,3,2023-08-23,2023-08-23 08:28:07.262621,RAS
+Gretillat Position 7,Rappel de large,1,3,2023-08-23,2023-08-23 08:28:07.760520,RAS
+Gretillat Position 8,Rappel de large,1,1,2023-08-23,2023-08-23 08:28:18.199139,RAS
+Gretillat Position 8,Rappel de large,1,1,2023-08-23,2023-08-23 08:28:18.682542,RAS
+Gretillat Position 8,Rappel de large,1,6,2023-08-23,2023-08-23 08:28:24.220358,RAS
+Gretillat Position 8,Rappel de large,1,2,2023-08-23,2023-08-23 08:28:28.094320,RAS
+Gretillat Position 8,Rappel de large,1,5,2023-08-23,2023-08-23 08:28:32.544481,RAS
+Gretillat Position 8,Rappel de large,1,2,2023-08-23,2023-08-23 08:28:36.344429,RAS
+Gretillat Position 9,Rappel de large,1,3,2023-08-23,2023-08-23 08:28:47.764483,RAS
+Gretillat Position 9,Rappel de large,1,1,2023-08-23,2023-08-23 08:28:53.000309,RAS
+Gretillat Position 9,Rappel de large,1,1,2023-08-23,2023-08-23 08:28:53.630955,RAS
+Gretillat Position 9,Rappel de large,1,2,2023-08-23,2023-08-23 08:28:56.188212,RAS
+Gretillat Position 9,Rappel de large,1,1,2023-08-23,2023-08-23 08:29:00.614597,RAS
+Gretillat Position 9,Rappel de large,1,8,2023-08-23,2023-08-23 08:29:14.414755,RAS
+Gretillat Position 10,Rappel de large,1,2,2023-08-23,2023-08-23 08:29:28.196353,RAS
+Gretillat Position 10,Rappel de large,1,7,2023-08-23,2023-08-23 08:29:32.342662,RAS
+Gretillat Position 10,Rappel de large,1,1,2023-08-23,2023-08-23 08:29:36.015072,RAS
+Gretillat Position 10,Rappel de large,1,3,2023-08-23,2023-08-23 08:29:39.591207,RAS
+Gretillat Position 10,Rappel de large,1,8,2023-08-23,2023-08-23 08:29:44.226245,RAS
+Gretillat Position 10,Rappel de large,1,5,2023-08-23,2023-08-23 08:29:50.576595,RAS
+Gretillat Position 11,Rappel de large,1,3,2023-08-23,2023-08-23 08:29:59.582318,RAS
+Gretillat Position 11,Rappel de large,1,4,2023-08-23,2023-08-23 08:30:02.734396,RAS
+Gretillat Position 11,Rappel de large,1,2,2023-08-23,2023-08-23 08:30:05.344472,RAS
+Gretillat Position 11,Rappel de large,1,1,2023-08-23,2023-08-23 08:30:09.500401,RAS
+Gretillat Position 11,Rappel de large,1,2,2023-08-23,2023-08-23 08:30:11.880392,RAS
+Gretillat Position 11,Rappel de large,1,2,2023-08-23,2023-08-23 08:30:12.528606,RAS
+Gretillat Position 12,Rappel de large,1,7,2023-08-23,2023-08-23 08:30:24.036266,RAS
+Gretillat Position 12,Rappel de large,1,2,2023-08-23,2023-08-23 08:30:26.098591,RAS
+Gretillat Position 12,Rappel de large,1,2,2023-08-23,2023-08-23 08:30:26.854819,RAS
+Gretillat Position 12,Rappel de large,1,4,2023-08-23,2023-08-23 08:30:29.929075,RAS
+Gretillat Position 12,Rappel de large,1,7,2023-08-23,2023-08-23 08:30:35.318479,RAS
+Gretillat Position 12,Rappel de large,1,4,2023-08-23,2023-08-23 08:30:39.648403,RAS
+Gretillat Position 13,Rappel de large,1,7,2023-08-23,2023-08-23 08:31:03.950322,RAS
+Gretillat Position 13,Rappel de large,1,3,2023-08-23,2023-08-23 08:31:06.650628,RAS
+Gretillat Position 13,Rappel de large,1,6,2023-08-23,2023-08-23 08:31:14.178375,RAS
+Gretillat Position 13,Rappel de large,1,18,2023-08-23,2023-08-23 08:31:41.240233,RAS
+Gretillat Position 13,Rappel de large,1,10,2023-08-23,2023-08-23 08:31:47.948105,RAS
+Gretillat Position 13,Rappel de large,1,13,2023-08-23,2023-08-23 08:31:54.661078,RAS
+Gretillat Position 14,Rappel de large,1,1,2023-08-23,2023-08-23 08:32:10.366686,RAS
+Gretillat Position 14,Rappel de large,1,2,2023-08-23,2023-08-23 08:32:12.702602,RAS
+Gretillat Position 14,Rappel de large,1,1,2023-08-23,2023-08-23 08:32:17.493160,RAS
+Gretillat Position 14,Rappel de large,1,5,2023-08-23,2023-08-23 08:32:23.644173,RAS
+Gretillat Position 14,Rappel de large,1,2,2023-08-23,2023-08-23 08:32:29.044683,RAS
+Gretillat Position 14,Rappel de large,1,1,2023-08-23,2023-08-23 08:32:31.634729,RAS
+Gretillat Position 15,Rappel de large,1,6,2023-08-23,2023-08-23 08:33:22.776732,RAS
+Gretillat Position 15,Rappel de large,1,1,2023-08-23,2023-08-23 08:33:27.686675,RAS
+Gretillat Position 15,Rappel de large,1,3,2023-08-23,2023-08-23 08:33:32.082697,RAS
+Gretillat Position 15,Rappel de large,1,1,2023-08-23,2023-08-23 08:33:36.538394,RAS
+Gretillat Position 15,Rappel de large,1,2,2023-08-23,2023-08-23 08:33:45.228423,RAS
+Gretillat Position 15,Rappel de large,1,3,2023-08-23,2023-08-23 08:33:49.652506,RAS
+Gretillat Position 16,Rappel de large,1,7,2023-08-23,2023-08-23 08:33:58.736368,RAS
+Gretillat Position 16,Rappel de large,1,3,2023-08-23,2023-08-23 08:34:02.858776,RAS
+Gretillat Position 16,Rappel de large,1,5,2023-08-23,2023-08-23 08:34:07.206253,RAS
+Gretillat Position 16,Rappel de large,1,3,2023-08-23,2023-08-23 08:34:12.078219,RAS
+Gretillat Position 16,Rappel de large,1,3,2023-08-23,2023-08-23 08:34:13.354228,RAS
+Gretillat Position 16,Rappel de large,1,1,2023-08-23,2023-08-23 08:34:16.034790,RAS
+Gretillat Position 17,Rappel de large,1,4,2023-08-23,2023-08-23 08:34:26.806849,RAS
+Gretillat Position 17,Rappel de large,1,3,2023-08-23,2023-08-23 08:34:30.418829,RAS
+Gretillat Position 17,Rappel de large,1,5,2023-08-23,2023-08-23 08:34:33.233481,RAS
+Gretillat Position 17,Rappel de large,1,3,2023-08-23,2023-08-23 08:34:36.460368,RAS
+Gretillat Position 17,Rappel de large,1,1,2023-08-23,2023-08-23 08:34:40.416507,RAS
+Gretillat Position 17,Rappel de large,1,1,2023-08-23,2023-08-23 08:34:41.064426,RAS
+Gretillat Position 18,Rappel de large,1,3,2023-08-23,2023-08-23 08:34:50.876354,RAS
+Gretillat Position 18,Rappel de large,1,2,2023-08-23,2023-08-23 08:34:57.040281,RAS
+Gretillat Position 18,Rappel de large,1,4,2023-08-23,2023-08-23 08:35:01.496442,RAS
+Gretillat Position 18,Rappel de large,1,2,2023-08-23,2023-08-23 08:35:05.776747,RAS
+Gretillat Position 18,Rappel de large,1,2,2023-08-23,2023-08-23 08:35:06.607045,RAS
+Gretillat Position 18,Rappel de large,1,1,2023-08-23,2023-08-23 08:35:08.998494,RAS
+Gretillat Position 19,Rappel de large,1,1,2023-08-23,2023-08-23 08:35:19.562906,RAS
+Gretillat Position 19,Rappel de large,1,2,2023-08-23,2023-08-23 08:35:22.296681,RAS
+Gretillat Position 19,Rappel de large,1,6,2023-08-23,2023-08-23 08:35:29.866160,RAS
+Gretillat Position 19,Rappel de large,1,1,2023-08-23,2023-08-23 08:35:33.654337,RAS
+Gretillat Position 19,Rappel de large,1,2,2023-08-23,2023-08-23 08:35:38.060689,RAS
+Gretillat Position 19,Rappel de large,1,4,2023-08-23,2023-08-23 08:35:40.718323,RAS
+Gretillat Position 20,Rappel de large,1,5,2023-08-23,2023-08-23 08:35:50.688705,RAS
+Gretillat Position 20,Rappel de large,1,3,2023-08-23,2023-08-23 08:35:54.708816,RAS
+Gretillat Position 20,Rappel de large,1,3,2023-08-23,2023-08-23 08:35:55.410758,RAS
+Gretillat Position 20,Rappel de large,1,2,2023-08-23,2023-08-23 08:35:57.978713,RAS
+Gretillat Position 20,Rappel de large,1,3,2023-08-23,2023-08-23 08:36:01.478397,RAS
+Gretillat Position 20,Rappel de large,1,2,2023-08-23,2023-08-23 08:36:05.074614,RAS
+Gretillat Position 21,Rappel de large,1,3,2023-08-23,2023-08-23 08:36:13.972232,RAS
+Gretillat Position 21,Rappel de large,1,2,2023-08-23,2023-08-23 08:36:17.205538,RAS
+Gretillat Position 21,Rappel de large,1,1,2023-08-23,2023-08-23 08:36:20.880929,RAS
+Gretillat Position 21,Rappel de large,1,5,2023-08-23,2023-08-23 08:36:23.760888,RAS
+Gretillat Position 21,Rappel de large,1,3,2023-08-23,2023-08-23 08:36:27.522541,RAS
+Gretillat Position 21,Rappel de large,1,3,2023-08-23,2023-08-23 08:36:28.148493,RAS
+Gretillat Position 22,Rappel de large,1,2,2023-08-23,2023-08-23 08:36:48.854317,RAS
+Gretillat Position 22,Rappel de large,1,1,2023-08-23,2023-08-23 08:36:51.900566,RAS
+Gretillat Position 22,Rappel de large,1,3,2023-08-23,2023-08-23 08:36:55.371214,RAS
+Gretillat Position 22,Rappel de large,1,3,2023-08-23,2023-08-23 08:36:56.202688,RAS
+Gretillat Position 22,Rappel de large,1,1,2023-08-23,2023-08-23 08:36:58.558619,RAS
+Gretillat Position 22,Rappel de large,1,3,2023-08-23,2023-08-23 08:37:01.424479,RAS
+Gretillat Position 23,Rappel de large,1,1,2023-08-23,2023-08-23 08:37:11.454730,RAS
+Gretillat Position 23,Rappel de large,1,1,2023-08-23,2023-08-23 08:37:12.446563,RAS
+Gretillat Position 23,Rappel de large,1,2,2023-08-23,2023-08-23 08:37:15.262653,RAS
+Gretillat Position 23,Rappel de large,1,2,2023-08-23,2023-08-23 08:37:16.662764,RAS
+Gretillat Position 23,Rappel de large,1,1,2023-08-23,2023-08-23 08:37:19.134082,RAS
+Gretillat Position 23,Rappel de large,1,1,2023-08-23,2023-08-23 08:37:19.956381,RAS
+Gretillat Position 24,Rappel de large,1,3,2023-08-23,2023-08-23 08:37:30.384412,RAS
+Gretillat Position 24,Rappel de large,1,4,2023-08-23,2023-08-23 08:37:32.456529,RAS
+Gretillat Position 24,Rappel de large,1,1,2023-08-23,2023-08-23 08:37:36.204739,RAS
+Gretillat Position 24,Rappel de large,1,5,2023-08-23,2023-08-23 08:37:41.064293,RAS
+Gretillat Position 24,Rappel de large,1,1,2023-08-23,2023-08-23 08:37:44.262236,RAS
+Gretillat Position 24,Rappel de large,1,4,2023-08-23,2023-08-23 08:37:47.070531,RAS
+Gretillat Position 25,Rappel de large,1,3,2023-08-23,2023-08-23 08:37:53.850339,RAS
+Gretillat Position 25,Rappel de large,1,2,2023-08-23,2023-08-23 08:37:59.070918,RAS
+Gretillat Position 25,Rappel de large,1,2,2023-08-23,2023-08-23 08:38:00.558355,RAS
+Gretillat Position 25,Rappel de large,1,3,2023-08-23,2023-08-23 08:38:03.502866,RAS
+Gretillat Position 25,Rappel de large,1,1,2023-08-23,2023-08-23 08:38:06.438922,RAS
+Gretillat Position 25,Rappel de large,1,1,2023-08-23,2023-08-23 08:38:07.127020,RAS
+Gretillat Position 26,Rappel de large,1,5,2023-08-23,2023-08-23 08:38:16.606627,RAS
+Gretillat Position 26,Rappel de large,1,7,2023-08-23,2023-08-23 08:38:19.845031,RAS
+Gretillat Position 26,Rappel de large,1,2,2023-08-23,2023-08-23 08:38:24.514336,RAS
+Gretillat Position 26,Rappel de large,1,4,2023-08-23,2023-08-23 08:38:28.548182,RAS
+Gretillat Position 26,Rappel de large,1,6,2023-08-23,2023-08-23 08:38:34.356557,RAS
+Gretillat Position 26,Rappel de large,1,3,2023-08-23,2023-08-23 08:38:38.270393,RAS
+Gretillat Position 27,Rappel de large,1,4,2023-08-23,2023-08-23 08:38:50.444855,RAS
+Gretillat Position 27,Rappel de large,1,2,2023-08-23,2023-08-23 08:38:53.022691,RAS
+Gretillat Position 27,Rappel de large,1,2,2023-08-23,2023-08-23 08:38:53.999456,RAS
+Gretillat Position 27,Rappel de large,1,1,2023-08-23,2023-08-23 08:38:57.658937,RAS
+Gretillat Position 27,Rappel de large,1,5,2023-08-23,2023-08-23 08:39:02.766438,RAS
+Gretillat Position 27,Rappel de large,1,2,2023-08-23,2023-08-23 08:39:08.562643,RAS
+Gretillat Position 27,Rappel de large,1,2,2023-08-23,2023-08-23 08:39:09.260948,RAS
+Gretillat Position 28,Rappel de large,1,1,2023-08-23,2023-08-23 08:39:19.448721,RAS
+Gretillat Position 28,Rappel de large,1,1,2023-08-23,2023-08-23 08:39:20.052212,RAS
+Gretillat Position 28,Rappel de large,1,1,2023-08-23,2023-08-23 08:39:20.634893,RAS
+Gretillat Position 28,Rappel de large,1,2,2023-08-23,2023-08-23 08:39:23.210606,RAS
+Gretillat Position 28,Rappel de large,1,2,2023-08-23,2023-08-23 08:39:23.872522,RAS
+Gretillat Position 28,Rappel de large,1,3,2023-08-23,2023-08-23 08:39:26.796826,RAS
+Gretillat Position 29,Rappel de large,1,2,2023-08-23,2023-08-23 08:39:42.448496,RAS
+Gretillat Position 29,Rappel de large,1,7,2023-08-23,2023-08-23 08:39:47.084500,RAS
+Gretillat Position 29,Rappel de large,1,7,2023-08-23,2023-08-23 08:39:47.854636,RAS
+Gretillat Position 29,Rappel de large,1,3,2023-08-23,2023-08-23 08:39:51.074838,RAS
+Gretillat Position 29,Rappel de large,1,5,2023-08-23,2023-08-23 08:39:54.428510,RAS
+Gretillat Position 29,Rappel de large,1,1,2023-08-23,2023-08-23 08:39:58.446885,RAS
+Gretillat Position 30,Rappel de large,1,2,2023-08-23,2023-08-23 08:40:07.410372,RAS
+Gretillat Position 30,Rappel de large,1,5,2023-08-23,2023-08-23 08:40:11.926625,RAS
+Gretillat Position 30,Rappel de large,1,5,2023-08-23,2023-08-23 08:40:12.422683,RAS
+Gretillat Position 30,Rappel de large,1,1,2023-08-23,2023-08-23 08:40:14.834902,RAS
+Gretillat Position 30,Rappel de large,1,7,2023-08-23,2023-08-23 08:40:19.008757,RAS
+Gretillat Position 30,Rappel de large,1,2,2023-08-23,2023-08-23 08:40:22.354681,RAS
+Gretillat Position 31,Rappel de large,1,3,2023-08-23,2023-08-23 08:40:33.344818,RAS
+Gretillat Position 31,Rappel de large,1,7,2023-08-23,2023-08-23 08:40:37.280473,RAS
+Gretillat Position 31,Rappel de large,1,6,2023-08-23,2023-08-23 08:40:39.746854,RAS
+Gretillat Position 31,Rappel de large,1,1,2023-08-23,2023-08-23 08:40:43.540789,RAS
+Gretillat Position 31,Rappel de large,1,1,2023-08-23,2023-08-23 08:40:44.756660,RAS
+Gretillat Position 31,Rappel de large,1,6,2023-08-23,2023-08-23 08:40:49.242465,RAS
+Gretillat Position 32,Rappel de large,1,1,2023-08-23,2023-08-23 08:40:58.650598,RAS
+Gretillat Position 32,Rappel de large,1,1,2023-08-23,2023-08-23 08:40:59.388983,RAS
+Gretillat Position 32,Rappel de large,1,5,2023-08-23,2023-08-23 08:41:01.894680,RAS
+Gretillat Position 32,Rappel de large,1,1,2023-08-23,2023-08-23 08:41:04.766783,RAS
+Gretillat Position 32,Rappel de large,1,2,2023-08-23,2023-08-23 08:41:08.481081,RAS
+Gretillat Position 32,Rappel de large,1,2,2023-08-23,2023-08-23 08:41:09.108431,RAS
+Gretillat Position 1,Prise americaine,2,10,2023-08-29,2023-08-29 09:59:20.301874,RAS
+Gretillat Position 2,Prise americaine,4,10,2023-08-29,2023-08-29 10:04:13.202429,RAS
+Gretillat Position 3,Prise americaine,3,10,2023-08-29,2023-08-29 10:09:26.040766,RAS
+Gretillat Position 4,Prise americaine,5,10,2023-08-29,2023-08-29 10:14:48.557651,RAS
+Gretillat Position 5,Prise americaine,1,11,2023-08-29,2023-08-29 10:21:57.403918,RAS
+Gretillat Position 5,Prise americaine,1,11,2023-08-29,2023-08-29 10:29:09.706515,RAS
+Gretillat Position 6,Prise americaine,1,10,2023-08-29,2023-08-29 10:29:56.977042,RAS
+Gretillat Position 7,Prise americaine,1,15,2023-08-29,2023-08-29 10:38:27.262399,RAS
+Gretillat Position 8,Prise americaine,1,10,2023-08-29,2023-08-29 10:42:32.369953,RAS
+Gretillat Position 1,Rappel de long,9,10,2023-09-05,2023-09-05 10:37:40.765799,RAS
+Gretillat Position 2,Rappel de long,4,10,2023-09-05,2023-09-05 10:42:37.645666,RAS
+Gretillat Position 2,Rappel de long,6,10,2023-09-05,2023-09-05 10:48:09.730756,RAS
+Gretillat Position 3,Rappel de long,6,10,2023-09-05,2023-09-05 10:48:21.501707,RAS
+Exercice,Rappel de long,2,10,2023-09-05,2023-09-05 10:54:22.222392,RAS
+Gretillat Position 5,Rappel de long,4,10,2023-09-05,2023-09-05 11:00:30.230511,RAS
+Gretillat Position 6,Rappel de long,2,11,2023-09-06,2023-09-06 10:24:17.154674,RAS
+Gretillat Position 7,Rappel de long,2,15,2023-09-06,2023-09-06 10:31:58.456039,RAS
+Gretillat Position 8,Rappel de long,1,10,2023-09-06,2023-09-06 10:37:14.904183,RAS
+Gretillat Position 9,Rappel de long,3,13,2023-09-06,2023-09-06 10:43:08.601777,RAS
+Gretillat Position 10,Rappel de long,7,10,2023-09-06,2023-09-06 10:47:51.106760,RAS
+Gretillat Position 11,Rappel de long,0,20,2023-09-06,2023-09-06 10:56:29.336755,RAS
+Gretillat Position 9,Prise americaine,2,10,2023-09-06,2023-09-06 11:03:32.254564,RAS
+Gretillat Position 10,Prise americaine,2,10,2023-09-06,2023-09-06 11:10:25.534852,RAS
+Gretillat Position 11,Prise americaine,4,10,2023-09-06,2023-09-06 11:14:52.919043,RAS
+Gretillat Position 12,Prise americaine,1,10,2023-09-06,2023-09-06 11:18:27.090226,RAS
+Gretillat Position 13,Prise americaine,1,10,2023-09-06,2023-09-06 11:21:26.632555,RAS
+Gretillat Position 1,Rappel de large,6,10,2023-09-07,2023-09-07 15:32:48.308806,RAS
+Gretillat Position 2,Rappel de large,5,10,2023-09-07,2023-09-07 15:37:31.878873,RAS
+Gretillat Position 3,Rappel de large,5,10,2023-09-07,2023-09-07 15:42:14.169120,RAS
+Gretillat Position 4,Rappel de large,5,10,2023-09-07,2023-09-07 15:47:40.295801,RAS
+Gretillat Position 5,Rappel de large,1,10,2023-09-07,2023-09-07 15:52:37.814780,RAS
+Gretillat Position 6,Rappel de large,4,10,2023-09-07,2023-09-07 15:56:34.688739,RAS
+Gretillat Position 7,Rappel de large,1,10,2023-09-07,2023-09-07 16:01:12.579098,RAS
+Gretillat Position 14,Prise americaine,2,10,2023-09-08,2023-09-08 11:07:16.587947,RAS
+Gretillat Position 15,Prise americaine,2,10,2023-09-08,2023-09-08 11:11:56.468431,RAS
+Gretillat Position 16,Prise americaine,3,10,2023-09-08,2023-09-08 11:17:07.571242,RAS
+Gretillat Position 17,Prise americaine,2,10,2023-09-08,2023-09-08 11:22:46.577625,RAS
+Gretillat Position 18,Prise americaine,3,10,2023-09-08,2023-09-08 11:26:48.110766,RAS
+Gretillat Position 19,Prise americaine,3,10,2023-09-08,2023-09-08 11:31:12.979403,RAS
+Gretillat Position 20,Prise americaine,3,10,2023-09-08,2023-09-08 11:35:30.392667,RAS
+Série tentative de prise,Prise americaine,3,20,2023-09-11,2023-09-11 18:04:20.527367,3.10
+Gretillat Position 21,Prise americaine,1,12,2023-09-20,2023-09-20 10:53:59.682733,RAS
+Gretillat Position 22,Prise americaine,6,10,2023-09-20,2023-09-20 10:59:31.819386,RAS
+Gretillat Position 23,Prise americaine,1,10,2023-09-20,2023-09-20 11:04:25.009657,RAS
+Gretillat Position 24,Prise americaine,6,10,2023-09-20,2023-09-20 11:09:40.741171,RAS
+Gretillat Position 25,Prise americaine,5,10,2023-09-20,2023-09-20 11:17:19.616419,RAS
+Gretillat Position 26,Prise americaine,5,10,2023-09-20,2023-09-20 11:21:03.507594,RAS
+Gretillat Position 27,Prise americaine,0,20,2023-09-20,2023-09-20 11:27:49.282054,RAS
+Gretillat Position 28,Prise americaine,3,10,2023-09-20,2023-09-20 11:33:17.015012,RAS
+Série tentative de prise,Prise americaine,3,50,2023-09-26,2023-09-26 11:45:09.884448,"Uniquement dans le tiers, prises main gauche non validées (2)"
+Gretillat Position 29,Prise americaine,1,20,2023-09-27,2023-09-27 10:46:19.103187,RAS
+Gretillat Position 30,Prise americaine,3,10,2023-09-27,2023-09-27 10:53:13.166978,RAS
+Gretillat Position 31,Prise americaine,4,10,2023-09-27,2023-09-27 11:00:40.101975,RAS
+Gretillat Position 32,Prise americaine,1,10,2023-09-27,2023-09-27 11:06:47.459508,RAS
+Gretillat Position 1,Prise americaine,2,20,2023-11-07,2023-11-07 11:32:52.138291,RAS
+Gretillat Position 2,Prise americaine,5,10,2023-11-07,2023-11-07 11:39:08.747567,RAS
+Gretillat Position 3,Prise americaine,5,10,2023-11-07,2023-11-07 11:46:42.888734,RAS
+Gretillat Position 4,Prise americaine,3,10,2023-11-07,2023-11-07 11:53:28.548802,RAS
+Gretillat Position 5,Prise americaine,0,10,2023-11-07,2023-11-07 12:04:40.003206,RAS
+Gretillat Position 6,Prise americaine,0,10,2023-11-07,2023-11-07 12:10:23.882352,RAS
+Gretillat Position 7,Prise americaine,1,20,2023-11-07,2023-11-07 12:21:18.707840,RAS
+Gretillat Position 8,Prise americaine,2,10,2023-11-07,2023-11-07 12:26:49.975427,RAS
+Gretillat Position 12,Rappel de long,4,10,2024-01-09,2024-01-09 11:31:30.283732,RAS
+Gretillat Position 13,Rappel de long,7,10,2024-01-09,2024-01-09 11:37:37.072569,RAS
+Gretillat Position 14,Rappel de long,6,12,2024-01-09,2024-01-09 11:43:58.813816,RAS
+Gretillat Position 15,Rappel de long,6,10,2024-01-09,2024-01-09 11:50:02.050845,RAS
+Gretillat Position 16,Rappel de long,1,18,2024-01-09,2024-01-09 12:00:29.704125,RAS
+Gretillat Position 17,Rappel de long,4,10,2024-01-09,2024-01-09 12:05:10.114136,RAS
+Gretillat Position 18,Rappel de long,4,10,2024-01-09,2024-01-09 12:10:10.876819,RAS
+Gretillat Position 19,Rappel de long,4,10,2024-01-09,2024-01-09 12:16:38.877372,RAS
+Gretillat Position 20,Rappel de long,7,10,2024-01-09,2024-01-09 12:22:05.091800,RAS
+Gretillat Position 21,Rappel de long,2,10,2024-01-09,2024-01-09 12:27:14.153826,RAS
+Gretillat Position 8,Rappel de large,4,10,2024-01-11,2024-01-11 11:46:41.395789,RAS
+Gretillat Position 9,Rappel de large,6,11,2024-01-11,2024-01-11 11:52:52.617520,RAS
+Gretillat Position 10,Rappel de large,9,10,2024-01-11,2024-01-11 11:57:32.098940,RAS
+Gretillat Position 11,Rappel de large,7,10,2024-01-11,2024-01-11 12:01:02.202224,RAS
+Gretillat Position 12,Rappel de large,3,10,2024-01-11,2024-01-11 12:05:10.688827,RAS
+Gretillat Position 13,Rappel de large,6,10,2024-01-11,2024-01-11 12:10:17.891132,RAS
+Gretillat Position 14,Rappel de large,5,10,2024-01-11,2024-01-11 12:15:22.459032,RAS
+Gretillat Position 9,Prise americaine,3,10,2024-02-23,2024-02-23 09:13:28.911107,RAS
+Gretillat Position 11,Prise americaine,3,10,2024-02-23,2024-02-23 09:24:18.251158,RAS
+Gretillat Position 12,Prise americaine,1,10,2024-02-23,2024-02-23 09:29:53.633161,RAS
+Gretillat Position 13,Prise americaine,2,10,2024-02-23,2024-02-23 09:35:36.398521,RAS
+Gretillat Position 14,Prise americaine,1,14,2024-02-23,2024-02-23 09:55:41.901098,RAS
+Gretillat Position 15,Prise americaine,1,14,2024-02-23,2024-02-23 10:03:13.264845,RAS
+Gretillat Position 15,Rappel de large,2,10,2024-02-27,2024-02-27 11:33:18.376896,RAS
+Gretillat Position 16,Rappel de large,5,10,2024-02-27,2024-02-27 11:39:05.095301,RAS
+Gretillat Position 17,Rappel de large,2,10,2024-02-27,2024-02-27 11:45:31.677411,RAS
+Gretillat Position 18,Rappel de large,10,10,2024-02-27,2024-02-27 11:49:51.108315,RAS
+Gretillat Position 18,Rappel de large,2,10,2024-02-27,2024-02-27 11:54:10.291927,RAS
+Gretillat Position 19,Rappel de large,3,13,2024-02-27,2024-02-27 12:02:28.131710,RAS
+Gretillat Position 20,Rappel de large,3,13,2024-02-27,2024-02-27 12:02:43.999971,RAS
+Gretillat Position 22,Rappel de large,2,15,2024-02-27,2024-02-27 12:17:46.564173,RAS
+Gretillat Position 23,Rappel de large,2,10,2024-02-27,2024-02-27 12:25:49.053736,RAS
+Gretillat Position 1,Rappel de long,7,10,2024-02-29,2024-02-29 11:10:10.815277,RAS
+Gretillat Position 2,Rappel de long,6,10,2024-02-29,2024-02-29 11:16:49.704845,RAS
+Gretillat Position 3,Rappel de long,5,10,2024-02-29,2024-02-29 11:22:19.347891,RAS
+Gretillat Position 17,Rappel de long,5,17,2024-02-29,2024-02-29 11:31:39.314602,RAS
+Position 1,Prise americaine,1,1,2024-10-06,2024-10-06 11:59:14.909227,RAS
+Gretillat Position 1,Prise americaine,1,1,2024-10-06,2024-10-06 11:59:29.799348,RAS
+Gretillat Position 2,Prise americaine,1,1,2024-10-06,2024-10-06 11:59:36.689291,RAS
+Gretillat Position 3,Prise americaine,0,7,2024-10-06,2024-10-06 12:03:32.989327,RAS
+Gretillat Position 4,Prise americaine,1,2,2024-10-06,2024-10-06 12:05:40.876037,RAS
+Gretillat Position 5,Prise americaine,0,7,2024-10-06,2024-10-06 12:09:33.864435,RAS
+Gretillat Position 6,Prise americaine,1,1,2024-10-06,2024-10-06 12:10:48.298673,RAS
+Gretillat Position 7,Prise americaine,0,7,2024-10-06,2024-10-06 12:13:43.451067,RAS
+Gretillat Position 8,Prise americaine,1,3,2024-10-06,2024-10-06 12:19:29.183187,RAS
+Gretillat Position 9,Prise americaine,1,5,2024-10-06,2024-10-06 12:21:00.274137,RAS
+Gretillat Position 10,Prise americaine,0,7,2024-10-06,2024-10-06 12:25:19.397959,RAS
+Gretillat Position 11,Prise americaine,1,5,2024-10-06,2024-10-06 12:52:02.412900,RAS
+Gretillat Position 12,Prise americaine,1,2,2024-10-06,2024-10-06 16:11:37.336242,RAS
+Gretillat Position 13,Prise americaine,0,7,2024-10-06,2024-10-06 16:15:05.074829,RAS
+Gretillat Position 14,Prise americaine,0,7,2024-10-06,2024-10-06 16:17:45.965807,RAS
+Gretillat Position 14,Prise americaine,1,1,2024-10-06,2024-10-06 16:20:32.087029,RAS
+Gretillat Position 16,Prise americaine,0,8,2024-10-06,2024-10-06 16:25:07.475807,RAS
+Gretillat Position 16,Prise americaine,1,3,2024-10-06,2024-10-06 16:27:47.633561,RAS
+Gretillat Position 17,Prise americaine,1,3,2024-10-06,2024-10-06 16:30:48.464761,RAS
+Gretillat Position 18,Prise americaine,1,2,2024-10-06,2024-10-06 16:30:59.619961,RAS
+Gretillat Position 19,Prise americaine,1,4,2024-10-06,2024-10-06 16:33:00.573618,RAS
+Gretillat Position 20,Prise americaine,1,8,2024-10-06,2024-10-06 16:38:52.496977,RAS
+Gretillat Position 20,Prise americaine,0,8,2024-10-06,2024-10-06 16:43:39.824025,RAS
+Gretillat Position 21,Prise americaine,0,8,2024-10-06,2024-10-06 16:45:29.590040,RAS
+Gretillat Position 22,Prise americaine,1,2,2024-10-06,2024-10-06 16:45:48.022868,RAS
+Gretillat Position 23,Prise americaine,1,5,2024-10-06,2024-10-06 16:50:13.774089,RAS
+Gretillat Position 24,Prise americaine,1,1,2024-10-06,2024-10-06 16:51:08.374691,RAS
+Gretillat Position 25,Prise americaine,1,5,2024-10-06,2024-10-06 16:56:30.045087,RAS
+Gretillat Position 26,Prise americaine,1,2,2024-10-06,2024-10-06 17:08:48.950320,RAS
+Gretillat Position 27,Prise americaine,0,10,2024-10-06,2024-10-06 17:12:36.395581,RAS
+Gretillat Position 28,Prise americaine,1,3,2024-10-06,2024-10-06 17:18:48.838261,RAS
+Gretillat Position 30,Prise americaine,1,8,2024-10-06,2024-10-06 17:25:46.879873,RAS
+Gretillat Position 31,Prise americaine,0,9,2024-10-06,2024-10-06 17:28:53.053330,RAS
+Gretillat Position 32,Prise americaine,1,2,2024-10-06,2024-10-06 17:30:35.074204,RAS
+Gretillat Position 33,Prise americaine,1,2,2024-10-06,2024-10-06 17:33:28.690301,RAS
+Gretillat Position 34,Prise americaine,1,5,2024-10-06,2024-10-06 17:37:01.285144,RAS
+Gretillat Position 35,Prise americaine,1,5,2024-10-06,2024-10-06 17:46:33.887065,RAS
+Gretillat Position 36,Prise americaine,1,1,2024-10-06,2024-10-06 17:50:35.706096,RAS
+Gretillat Position 37,Prise americaine,1,2,2024-10-06,2024-10-06 17:52:30.630084,RAS
+Gretillat Position 38,Prise americaine,1,4,2024-10-06,2024-10-06 17:55:49.726881,RAS
+Gretillat Position 39,Prise americaine,1,5,2024-10-06,2024-10-06 17:57:38.999296,RAS
+Gretillat Position 40,Prise americaine,1,1,2024-10-06,2024-10-06 17:58:33.960056,RAS
+Gretillat Position 41,Prise americaine,1,3,2024-10-06,2024-10-06 18:00:54.635050,RAS
+Gretillat Position 42,Prise americaine,0,8,2024-10-06,2024-10-06 18:06:02.891265,RAS
+Gretillat Position 43,Prise americaine,1,7,2024-10-06,2024-10-06 18:08:57.785161,RAS
+Gretillat Position 44,Prise americaine,1,3,2024-10-06,2024-10-06 18:11:01.565539,RAS
+Gretillat Position 1,Rappel de large,1,1,2024-10-07,2024-10-07 18:24:06.196223,RAS
+Gretillat Position 2,Rappel de large,1,5,2024-10-07,2024-10-07 18:25:33.676562,RAS
+Gretillat Position 3,Rappel de large,1,2,2024-10-07,2024-10-07 18:26:32.657951,RAS
+Gretillat Position 4,Rappel de large,1,3,2024-10-07,2024-10-07 18:27:42.100035,RAS
+Gretillat Position 5,Rappel de large,1,6,2024-10-07,2024-10-07 18:30:21.114529,RAS
+Gretillat Position 6,Rappel de large,1,9,2024-10-07,2024-10-07 18:33:05.637648,RAS
+Gretillat Position 7,Rappel de large,1,4,2024-10-07,2024-10-07 18:34:50.238196,RAS
+Gretillat Position 8,Rappel de large,1,1,2024-10-07,2024-10-07 18:35:30.951487,RAS
+Gretillat Position 9,Rappel de large,1,2,2024-10-07,2024-10-07 18:37:04.524476,RAS
+Gretillat Position 10,Rappel de large,1,5,2024-10-07,2024-10-07 18:40:31.772601,RAS
+Gretillat Position 11,Rappel de large,1,3,2024-10-07,2024-10-07 18:43:03.271678,RAS
+Gretillat Position 12,Rappel de large,0,6,2024-10-07,2024-10-07 18:46:30.783389,RAS
+Gretillat Position 13,Rappel de large,1,5,2024-10-07,2024-10-07 18:49:59.025422,RAS
+Gretillat Position 14,Rappel de large,0,7,2024-10-07,2024-10-07 18:54:46.032322,RAS
+Gretillat Position 15,Rappel de large,0,7,2024-10-07,2024-10-07 18:57:50.523927,RAS
+Gretillat Position 16,Rappel de large,1,3,2024-10-07,2024-10-07 18:58:56.024230,RAS
+Gretillat Position 17,Rappel de large,1,7,2024-10-07,2024-10-07 19:01:15.790958,RAS
+Gretillat Position 18,Rappel de large,1,7,2024-10-07,2024-10-07 19:05:06.738180,RAS
+Gretillat Position 19,Rappel de large,1,2,2024-10-07,2024-10-07 19:12:37.873229,RAS
+Gretillat Position 20,Rappel de large,0,7,2024-10-07,2024-10-07 19:16:35.636169,RAS
+Gretillat Position 18,Rappel de long,1,2,2024-10-08,2024-10-08 10:25:22.329393,RAS
+Gretillat Position 19,Rappel de long,0,7,2024-10-08,2024-10-08 10:28:47.142565,RAS
+Gretillat Position 20,Rappel de long,1,3,2024-10-08,2024-10-08 10:30:42.299396,RAS
+Gretillat Position 21,Rappel de long,0,7,2024-10-08,2024-10-08 10:33:40.696475,RAS
+Gretillat Position 22,Rappel de long,1,4,2024-10-08,2024-10-08 10:35:23.732916,RAS
+Gretillat Position 23,Rappel de long,1,6,2024-10-08,2024-10-08 10:38:18.770705,RAS
+Gretillat Position 24,Rappel de long,0,7,2024-10-08,2024-10-08 10:40:41.941462,RAS
+Gretillat Position 25,Rappel de long,0,7,2024-10-08,2024-10-08 10:43:27.147881,RAS
+Gretillat Position 26,Rappel de long,0,8,2024-10-08,2024-10-08 10:45:19.925424,RAS
+Gretillat Position 27,Rappel de long,1,5,2024-10-08,2024-10-08 10:47:07.321386,RAS
+Gretillat Position 28,Rappel de long,1,7,2024-10-08,2024-10-08 10:50:15.341434,RAS
+Gretillat Position 29,Rappel de long,1,3,2024-10-08,2024-10-08 10:53:03.321490,RAS
+Gretillat Position 30,Rappel de long,1,5,2024-10-08,2024-10-08 10:55:27.788715,RAS
+Gretillat Position 31,Rappel de long,1,1,2024-10-08,2024-10-08 10:56:48.037403,RAS
+Gretillat Position 32,Rappel de long,1,6,2024-10-08,2024-10-08 10:59:43.027620,RAS
+Gretillat Position 33,Rappel de long,1,6,2024-10-08,2024-10-08 11:02:38.567876,RAS
+Gretillat Position 34,Rappel de long,1,7,2024-10-08,2024-10-08 11:05:09.015907,RAS
+Gretillat Position 35,Rappel de long,1,4,2024-10-08,2024-10-08 11:07:20.735719,RAS
+Exercice 1-1 point placement ,Billes en lunette,1,1,2024-10-23,2024-10-23 18:17:12.523123,RAS
+Exercice 1-rappel 1 bande 1 point placement ,Billes en lunette,1,1,2024-10-23,2024-10-23 18:18:22.855987,RAS
+Exercice 1-rappel 2 bande 1 point placement ,Billes en lunette,1,2,2024-10-23,2024-10-23 18:18:36.509326,RAS
+Exercice 1-rappel 3 bande 1 point placement ,Billes en lunette,0,5,2024-10-23,2024-10-23 18:24:35.669665,RAS
+Exercice 1-rappel 1 bande 2 point placement ,Billes en lunette,1,5,2024-10-23,2024-10-23 18:26:49.943077,RAS
+Exercice 1-rappel 2 bande 2 point placement ,Billes en lunette,0,5,2024-10-23,2024-10-23 18:28:47.091189,RAS
+Exercice 1-rappel 3 bande 2 point placement ,Billes en lunette,0,5,2024-10-23,2024-10-23 18:30:34.013104,RAS
+Exercice 1-rappel 1 bande 3 point placement ,Billes en lunette,1,3,2024-10-23,2024-10-23 18:32:14.788974,RAS
+Exercice 1-rappel 2 bande 3 point placement ,Billes en lunette,1,5,2024-10-23,2024-10-23 18:36:44.745704,RAS
+Exercice 1-rappel 3 bande 3 point placement ,Billes en lunette,1,3,2024-10-23,2024-10-23 18:40:27.944691,RAS
+Exercice 1-rappel 1 bande 4 point placement ,Billes en lunette,1,4,2024-10-23,2024-10-23 18:42:24.285917,RAS
+Exercice 1-rappel 2 bande 4 point placement ,Billes en lunette,1,3,2024-10-23,2024-10-23 18:44:27.500790,RAS
+Exercice 1-rappel 3 bande 4 point placement ,Billes en lunette,1,1,2024-10-23,2024-10-23 18:45:19.578970,RAS
+Exercice 1-rappel 1 bande 5 point placement ,Billes en lunette,1,1,2024-10-23,2024-10-23 18:46:18.154923,RAS
+Exercice 1-rappel 2 bande 5 point placement ,Billes en lunette,0,5,2024-10-23,2024-10-23 18:48:51.056067,RAS
+Exercice 1-rappel 3 bande 5 point placement ,Billes en lunette,0,5,2024-10-23,2024-10-23 18:51:12.446981,RAS
+Exercice 2- rappel 1 bande rouge ,Billes en lunette,1,3,2024-10-23,2024-10-23 18:55:48.843945,RAS
+Exercice 2- rappel 2 bande rouge ,Billes en lunette,1,5,2024-10-23,2024-10-23 18:58:44.830997,RAS
+Exercice 2- rappel 3 bande rouge ,Billes en lunette,0,5,2024-10-23,2024-10-23 19:02:29.293301,RAS
+Exercice 2- rappel 1 bande pointée ,Billes en lunette,0,5,2024-10-23,2024-10-23 19:05:04.577135,RAS
+Exercice 2- rappel 2 bande pointée ,Billes en lunette,1,3,2024-10-23,2024-10-23 19:07:18.350512,RAS
+Exercice 2- rappel 3 bande pointée ,Billes en lunette,0,5,2024-10-23,2024-10-23 19:11:05.714181,RAS
+Exercice 2- rappel  1 pour 1 pointée ,Billes en lunette,0,5,2024-10-23,2024-10-23 19:14:46.839613,RAS
+Exercice 2- rappel  1 pour 2 pointée ,Billes en lunette,0,5,2024-10-23,2024-10-23 19:17:14.791800,RAS
+Exercice 2- rappel  1 pour 3 pointée ,Billes en lunette,0,5,2024-10-23,2024-10-23 19:20:48.589075,RAS
+Exercice 2- passage,Billes en lunette,1,5,2024-10-23,2024-10-23 19:23:28.804068,RAS
+Exercice 3 - passage rappel 1 bande droite,Billes en lunette,0,5,2024-10-23,2024-10-23 19:28:20.326687,RAS
+Exercice 3 - passage rappel 2 bande droite,Billes en lunette,0,5,2024-10-23,2024-10-23 19:30:13.617058,RAS
+Exercice 3 - passage rappel 3 bande droite,Billes en lunette,1,3,2024-10-23,2024-10-23 19:31:55.881891,RAS
+Exercice 3 - passage rappel 1 bande gauche,Billes en lunette,1,4,2024-10-23,2024-10-23 19:33:38.070923,RAS
+Exercice 3 - passage rappel 2 bande gauche,Billes en lunette,0,5,2024-10-23,2024-10-23 19:36:16.932921,RAS
+Exercice 3 - passage rappel 3 bande gauche,Billes en lunette,0,5,2024-10-23,2024-10-23 19:38:43.255435,RAS
+Exercice 3 - retro passage droite,Billes en lunette,0,1,2024-10-23,2024-10-23 19:39:50.982986,RAS
+Exercice 3 - retro passage droite,Billes en lunette,1,1,2024-10-23,2024-10-23 19:39:55.534989,RAS
+Exercice 3 - retro passage gauche,Billes en lunette,1,2,2024-10-23,2024-10-23 19:41:02.721670,RAS
+Tentatives prise d'américaine ,Prise americaine,8,40,2024-11-17,2024-11-17 10:54:47.607183,RAS
+Gretillat Position 37,Rappel de long,1,3,2024-11-22,2024-11-22 18:47:06.015929,RAS
+Gretillat Position 36,Rappel de long,0,7,2024-11-22,2024-11-22 18:51:14.787830,RAS
+Gretillat Position 38,Rappel de long,0,7,2024-11-22,2024-11-22 18:56:07.791771,RAS
+Gretillat Position 39,Rappel de long,1,2,2024-11-22,2024-11-22 18:58:00.368779,RAS
+Gretillat Position 40,Rappel de long,1,4,2024-11-22,2024-11-22 19:00:33.135787,RAS
+Gretillat Position 41,Rappel de long,1,2,2024-11-22,2024-11-22 19:02:01.227857,RAS
+Gretillat Position 42,Rappel de long,0,7,2024-11-22,2024-11-22 19:07:13.755519,RAS
+Gretillat Position 43,Rappel de long,1,1,2024-11-22,2024-11-22 19:08:01.763884,RAS
+Gretillat Position 44,Rappel de long,0,7,2024-11-22,2024-11-22 19:11:33.447842,RAS
+Gretillat Position 45,Rappel de long,1,7,2024-11-22,2024-11-22 19:15:24.301502,RAS
+Gretillat Position 46,Rappel de long,1,7,2024-11-22,2024-11-22 19:18:37.550642,RAS
+Gretillat Position 46,Rappel de long,1,5,2024-11-22,2024-11-22 19:18:52.886956,RAS
+Gretillat Position 47,Rappel de long,1,2,2024-11-22,2024-11-22 19:20:08.560293,RAS
+Gretillat Position 48,Rappel de long,1,4,2024-11-22,2024-11-22 19:23:06.756537,RAS
+Gretillat Position 49,Rappel de long,1,3,2024-11-22,2024-11-22 19:24:35.793257,RAS
+Gretillat Position 50,Rappel de long,1,7,2024-11-22,2024-11-22 19:28:41.596931,RAS
+Gretillat Position 51,Rappel de long,1,3,2024-12-11,2024-12-11 17:56:03.225043,RAS
+Gretillat Position 52,Rappel de long,1,7,2024-12-11,2024-12-11 18:01:02.761806,RAS
+Gretillat Position 53,Rappel de long,1,2,2024-12-11,2024-12-11 18:02:47.872064,RAS
+Gretillat Position 54,Rappel de long,1,6,2024-12-11,2024-12-11 18:07:20.461507,RAS
+Gretillat Position 55,Rappel de long,0,7,2024-12-11,2024-12-11 18:12:49.931317,RAS
+Gretillat Position 56,Rappel de long,0,7,2024-12-11,2024-12-11 18:18:06.035188,RAS
+Gretillat Position 57,Rappel de long,0,7,2024-12-11,2024-12-11 18:21:30.679170,RAS
+Gretillat Position 58,Rappel de long,0,7,2024-12-11,2024-12-11 18:26:17.247067,RAS
+Gretillat Position 59,Rappel de long,1,7,2024-12-11,2024-12-11 18:29:45.414326,RAS
+Gretillat Position 60,Rappel de long,1,5,2024-12-11,2024-12-11 18:33:26.801899,RAS
+Gretillat Position 61,Rappel de long,1,6,2024-12-11,2024-12-11 18:37:05.491342,RAS
+Gretillat Position 62,Rappel de long,1,7,2024-12-11,2024-12-11 18:41:13.371678,RAS
+Gretillat Position 63,Rappel de long,0,7,2024-12-11,2024-12-11 18:45:51.701894,RAS
+Gretillat Position 64,Rappel de long,1,2,2024-12-11,2024-12-11 18:47:42.813320,RAS
+Gretillat Position 65,Rappel de long,0,7,2024-12-11,2024-12-11 18:51:26.763206,RAS
+Gretillat Position 66,Rappel de long,0,2,2024-12-11,2024-12-11 18:52:31.123499,RAS
+Gretillat Position 66,Rappel de long,1,2,2024-12-11,2024-12-11 18:54:07.371920,RAS
+Gretillat Position 67,Rappel de long,1,2,2024-12-11,2024-12-11 18:54:11.114253,RAS
+Gretillat Position 21,Rappel de large,1,4,2024-12-11,2024-12-11 19:10:46.296346,RAS
+Gretillat Position 22,Rappel de large,1,1,2024-12-11,2024-12-11 19:11:59.177210,RAS
+Gretillat Position 23,Rappel de large,1,5,2024-12-11,2024-12-11 19:14:55.086214,RAS
+Gretillat Position 24,Rappel de large,1,2,2024-12-11,2024-12-11 19:18:07.834071,RAS
+Gretillat Position 25,Rappel de large,1,2,2024-12-11,2024-12-11 19:22:03.406363,RAS
+Gretillat Position 26,Rappel de large,1,4,2024-12-11,2024-12-11 19:24:03.914359,RAS
+Gretillat Position 1,Prise americaine,1,2,2024-12-20,2024-12-20 16:25:38.350420,RAS
+Gretillat Position 2,Prise americaine,1,2,2024-12-20,2024-12-20 16:27:22.841251,RAS
+Gretillat Position 3,Prise americaine,1,2,2024-12-20,2024-12-20 16:29:06.292168,RAS
+Gretillat Position 4,Prise americaine,1,2,2024-12-20,2024-12-20 16:30:58.991609,RAS
+Gretillat Position 6,Prise americaine,1,3,2024-12-20,2024-12-20 16:33:18.258611,RAS
+Gretillat Position 6,Prise americaine,0,7,2024-12-20,2024-12-20 16:35:30.020710,RAS
+Gretillat Position 5,Prise americaine,0,7,2024-12-20,2024-12-20 16:35:36.078824,RAS
+Gretillat Position 7,Prise americaine,0,7,2024-12-20,2024-12-20 16:38:30.350657,RAS
+Gretillat Position 8,Prise americaine,1,4,2024-12-20,2024-12-20 16:41:56.590745,RAS
+Gretillat Position 9,Prise americaine,0,7,2024-12-20,2024-12-20 16:44:31.951251,RAS
+Gretillat Position 10,Prise americaine,0,7,2024-12-20,2024-12-20 16:46:53.520429,RAS
+Gretillat Position 11,Prise americaine,1,6,2024-12-20,2024-12-20 16:49:32.951642,RAS
+Gretillat Position 12,Prise americaine,1,6,2024-12-20,2024-12-20 16:52:10.489476,RAS
+Gretillat Position 13,Prise americaine,0,7,2024-12-20,2024-12-20 16:59:51.190405,RAS
+Gretillat Position 14,Prise americaine,26,7,2024-12-20,2024-12-20 17:04:43.531942,RAS
+Gretillat Position 15,Prise americaine,1,5,2024-12-20,2024-12-20 17:07:55.909856,RAS
+Gretillat Position 16,Prise americaine,1,9,2024-12-20,2024-12-20 17:10:39.539865,RAS
+Gretillat Position 1,Prise americaine,5,10,2025-01-14,2025-01-14 11:50:06.254104,RAS
+Gretillat Position 2,Prise americaine,7,10,2025-01-14,2025-01-14 11:56:17.614202,RAS
+Gretillat Position 3,Prise americaine,2,10,2025-01-14,2025-01-14 12:00:29.429095,RAS
+Gretillat Position 4,Prise americaine,3,10,2025-01-14,2025-01-14 12:06:09.840067,RAS
+Gretillat Position 8,Prise americaine,1,10,2025-01-14,2025-01-14 12:12:29.662274,RAS
+Gretillat Position 9,Prise americaine,2,10,2025-01-14,2025-01-14 12:17:34.816369,RAS
+Gretillat Position 11,Prise americaine,2,10,2025-01-14,2025-01-14 12:22:03.526056,RAS
+Gretillat Position 12,Prise americaine,3,10,2025-01-14,2025-01-14 12:29:42.904341,RAS
+Gretillat Position 12,Prise americaine,2,10,2025-01-14,2025-01-14 12:35:27.947300,RAS
+Gretillat Position 14,Prise americaine,2,10,2025-01-14,2025-01-14 12:40:36.926167,RAS
+Gretillat Position 1,Rappel de long,1,3,2025-01-17,2025-01-17 16:40:26.970061,RAS
+Gretillat Position 2,Rappel de long,1,2,2025-01-17,2025-01-17 16:42:12.898089,RAS
+Gretillat Position 3,Rappel de long,1,3,2025-01-17,2025-01-17 16:44:33.188788,RAS
+Gretillat Position 4,Rappel de long,1,2,2025-01-17,2025-01-17 16:46:21.739758,RAS
+Gretillat Position 5,Rappel de long,1,7,2025-01-17,2025-01-17 16:51:39.648813,RAS
+Gretillat Position 6,Rappel de long,1,1,2025-01-17,2025-01-17 16:52:31.968683,RAS
+Gretillat Position 7,Rappel de long,1,2,2025-01-17,2025-01-17 16:54:02.361073,RAS
+Gretillat Position 8,Rappel de long,1,8,2025-01-17,2025-01-17 16:59:09.368903,RAS
+Gretillat Position 9,Rappel de long,1,3,2025-01-17,2025-01-17 17:01:06.250268,RAS
+Gretillat Position 10,Rappel de long,1,1,2025-01-17,2025-01-17 17:01:56.650438,RAS
+Gretillat Position 11,Rappel de long,1,7,2025-01-17,2025-01-17 17:05:15.928773,RAS
+Gretillat Position 12,Rappel de long,1,2,2025-01-17,2025-01-17 17:06:27.089926,RAS
+Gretillat Position 13,Rappel de long,1,4,2025-01-17,2025-01-17 17:08:45.169185,RAS
+Gretillat Position 14,Rappel de long,1,5,2025-01-17,2025-01-17 17:11:35.690506,RAS
+Gretillat Position 15,Rappel de long,1,2,2025-01-17,2025-01-17 17:13:37.976754,RAS
+Gretillat Position 16,Rappel de long,1,1,2025-01-17,2025-01-17 17:17:27.186439,RAS
+Gretillat Position 17,Rappel de long,18,1,2025-01-17,2025-01-17 17:19:18.475989,RAS
+Gretillat Position 18,Rappel de long,1,6,2025-01-17,2025-01-17 17:22:56.230405,RAS
+Gretillat Position 19,Rappel de long,1,8,2025-01-17,2025-01-17 17:31:36.540268,RAS
+Gretillat Position 20,Rappel de long,1,4,2025-01-17,2025-01-17 17:33:39.258706,RAS
+Gretillat Position 21,Rappel de long,1,10,2025-01-25,2025-01-25 07:52:50.040977,RAS
+Gretillat Position 22,Rappel de long,3,10,2025-01-25,2025-01-25 07:58:11.752247,RAS
+Gretillat Position 23,Rappel de long,3,10,2025-01-25,2025-01-25 08:04:14.080071,RAS
+Gretillat Position 24,Rappel de long,1,8,2025-01-25,2025-01-25 08:11:37.372545,RAS
+Gretillat Position 25,Rappel de long,3,5,2025-03-02,2025-03-02 16:05:10.199233,RAS
+Gretillat Position 26,Rappel de long,1,5,2025-03-02,2025-03-02 16:10:21.506703,RAS
+Gretillat Position 27,Rappel de long,1,6,2025-03-02,2025-03-02 16:17:22.517802,RAS
+Gretillat Position 28,Rappel de long,1,2,2025-03-02,2025-03-02 16:19:07.088946,RAS
+Gretillat Position 29,Rappel de long,2,5,2025-03-02,2025-03-02 16:22:26.668750,RAS
+Gretillat Position 30,Rappel de long,2,5,2025-03-02,2025-03-02 16:25:17.484213,RAS
+Gretillat Position 31,Rappel de long,1,3,2025-03-02,2025-03-02 16:27:52.672086,RAS
+Gretillat Position 32,Rappel de long,1,6,2025-03-02,2025-03-02 16:32:25.587793,RAS
+Gretillat Position 33,Rappel de long,1,2,2025-03-02,2025-03-02 16:34:31.719517,RAS
+Gretillat Position 34,Rappel de long,1,7,2025-03-02,2025-03-02 16:39:09.602960,RAS
+Gretillat Position 35,Rappel de long,1,10,2025-03-02,2025-03-02 16:45:31.511465,RAS
+Gretillat Position 36,Rappel de long,1,4,2025-03-02,2025-03-02 16:50:28.407518,RAS
+Gretillat Position 37,Rappel de long,1,7,2025-03-02,2025-03-02 16:55:38.639645,RAS
+Gretillat Position 38,Rappel de long,1,4,2025-03-02,2025-03-02 16:58:52.183868,RAS
+Gretillat Position 39,Rappel de long,1,5,2025-03-02,2025-03-02 17:02:28.448210,RAS
+Gretillat Position 40,Rappel de long,1,2,2025-03-02,2025-03-02 17:04:33.751812,RAS
+Gretillat Position 41,Rappel de long,1,2,2025-03-02,2025-03-02 17:07:30.559847,RAS
+Gretillat Position 42,Rappel de long,1,9,2025-03-02,2025-03-02 17:13:45.032772,RAS
+Exercice 10 pt sur billes en lunette ,Rappel de large,6,10,2025-04-29,2025-04-29 17:59:46.708727,RAS
+Gretillat Position 15,Prise americaine,1,10,2025-06-10,2025-06-10 17:13:46.442959,RAS
+Gretillat Position 16,Prise americaine,1,9,2025-06-10,2025-06-10 17:20:04.655927,RAS
+Gretillat Position 17,Prise americaine,1,5,2025-06-10,2025-06-10 17:22:55.795079,RAS
+Gretillat Position 18,Prise americaine,1,6,2025-06-10,2025-06-10 17:27:12.012871,RAS
+Gretillat Position 19,Prise americaine,1,5,2025-06-10,2025-06-10 17:29:44.090415,RAS
+Gretillat Position 20,Prise americaine,1,19,2025-06-10,2025-06-10 17:39:16.656110,RAS
+Gretillat Position 21,Prise americaine,1,7,2025-06-10,2025-06-10 17:41:44.530356,RAS
+Gretillat Position 22,Prise americaine,1,10,2025-06-10,2025-06-10 17:48:07.806248,RAS
+Gretillat Position 22,Prise americaine,1,10,2025-06-10,2025-06-10 17:52:31.004668,RAS
+Gretillat Position 23,Prise americaine,1,10,2025-06-10,2025-06-10 17:54:18.929758,RAS
+Gretillat Position 24,Prise americaine,1,4,2025-06-10,2025-06-10 17:54:25.897637,RAS
+Gretillat Position 25,Prise americaine,1,2,2025-06-10,2025-06-10 17:57:10.392792,RAS
+Gretillat Position 26,Prise americaine,1,6,2025-06-10,2025-06-10 18:04:05.047245,RAS
+Gretillat Position 27,Prise americaine,1,2,2025-06-10,2025-06-10 18:05:41.045652,RAS
+Gretillat Position 28,Prise americaine,1,7,2025-06-10,2025-06-10 18:09:47.423418,RAS
+Gretillat Position 28,Prise americaine,1,3,2025-06-10,2025-06-10 18:10:51.184885,RAS
+Gretillat Position 29,Prise americaine,1,8,2025-06-10,2025-06-10 18:15:40.411231,RAS
+Gretillat Position 30,Prise americaine,1,7,2025-06-10,2025-06-10 18:18:02.488910,RAS
+Gretillat Position 31,Prise americaine,1,5,2025-06-10,2025-06-10 18:18:09.013097,RAS
+Gretillat Position 31,Prise americaine,1,10,2025-06-10,2025-06-10 18:24:14.938412,RAS
+Gretillat Position 32,Prise americaine,1,4,2025-06-10,2025-06-10 18:26:15.635496,RAS
+Gretillat Position 33,Prise americaine,1,1,2025-06-10,2025-06-10 18:27:48.075055,RAS
+Gretillat Position 34,Prise americaine,1,4,2025-06-10,2025-06-10 18:28:15.762339,RAS
+Gretillat Position 35,Prise americaine,1,4,2025-06-11,2025-06-11 18:42:43.757057,RAS
+Gretillat Position 36,Prise americaine ,1,1,2025-06-11,2025-06-11 18:44:34.022138,RAS
+Gretillat Position 37,Prise americaine ,1,9,2025-06-11,2025-06-11 18:49:33.504322,RAS
+Gretillat Position 38,Prise americaine,2,2,2025-06-11,2025-06-11 18:57:32.828166,RAS
+Gretillat Position 39,Prise americaine,1,3,2025-06-11,2025-06-11 18:59:16.921304,RAS
+Gretillat Position 40,Prise americaine,1,2,2025-06-11,2025-06-11 19:01:56.413412,RAS
+Gretillat Position 41,Prise americaine,1,4,2025-06-11,2025-06-11 19:04:42.421460,RAS
+Gretillat Position 42,Prise americaine,0,20,2025-06-11,2025-06-11 19:12:20.003434,RAS
+Gretillat Position 43,Prise americaine,0,20,2025-06-11,2025-06-11 19:18:52.075968,RAS
